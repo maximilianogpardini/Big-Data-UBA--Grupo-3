@@ -1,0 +1,9 @@
+variable,tipo_dato,nulos_%
+provi_id,int64,0.0
+desc_provincia,object,0.0
+depto_final,int64,0.0
+desc_departamento,object,0.0
+sector,object,0.0
+periodo,int64,0.0
+empleo,float64,30.78
+salarios,float64,30.78
