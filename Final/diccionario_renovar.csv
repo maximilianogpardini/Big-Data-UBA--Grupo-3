@@ -1,0 +1,12 @@
+variable,tipo_dato,nulos_%
+Tecnología,object,3.29
+ID,object,3.29
+Región,object,3.29
+Provincia,object,3.29
+Departamento,object,3.29
+Ronda,object,3.29
+Fecha de adjudicacion,float64,3.29
+Oferente,object,2.63
+Nombre del proyecto,object,3.29
+Precio adj. [USD/MWh],object,3.29
+Potencia [MW],object,2.63
