@@ -1,0 +1,153 @@
+﻿Tecnología;ID;Región;Provincia;Departamento;Ronda;Fecha de adjudicacion;Oferente;Nombre del proyecto;Precio adj. [USD/MWh];Potencia [MW]
+Biogás;BG-01;Centro;CORDOBA;Río Cuarto;Ronda 1;201610;BIOMAS CROP;C.T. Río Cuarto 1;160;2
+Biogás;BG-02;Centro;CORDOBA;Río Cuarto;Ronda 1;201610;BIOMAS CROP;C.T. Río Cuarto 2;160;1,2
+Biogás;BG-03;Centro;SAN LUIS;General Pedernera;Ronda 1;201610;ACA / FERSI;C.T. Yanquetruz;160;1,2
+Biogás;BG-04;Litoral;SANTA FE;General López;Ronda 1;201610;ADECO AGRO;C.T. San Pedro Verde;158,92;1,415
+Biogás;BG-05;Centro;CORDOBA;General Roca;Ronda 1;201610;FECOFE / COOP. HUINCA RENANCÓ;C.T. Huinca Renancó;160;1,62
+Biogás;BG-06;Litoral;SANTA FE;San Lorenzo;Ronda 1;201610;MARTÍN NACARATO / OTROS;C.T. Biogás Ricardone;118;1,2
+Biogás;BG-500;Litoral;SANTA FE;Constitución;Ronda 2;201711;TANONI HNOS S.A.;C.T. Bombal Biogas;165;1,2
+Biogás;BG-501;BSAS;BUENOS AIRES;Ramallo;Ronda 2;201711;ARREBEEF S.A.;C.T. Arrebeef Energia;150;1,5
+Biogás;BG-502;Centro;CORDOBA;Colón;Ronda 2;201711;POLLOS SAN MATEO S.A.;C.T. Pollos San Mateo;156;2,4
+Biogás;BG-503;Centro;CORDOBA;Río Cuarto;Ronda 2;201711;ACZIA BIOGAS, S.L.;C.T. James Craik;156;2,4
+Biogás;BG-504;Litoral;SANTA FE;La Capital;Ronda 2;201711;ACZIA BIOGAS, S.L.;C.T. Recreo;156;2,4
+Biogás;BG-505;Centro;CORDOBA;San Justo;Ronda 2;201711;ACZIA BIOGAS, S.L.;C.T. San Francisco;156;2,4
+Biogás;BG-506;Litoral;SANTA FE;Castellanos;Ronda 2;201711;ACZIA BIOGAS, S.L.;C.T. Bella Italia;156;2,4
+Biogás;BG-507;BSAS;BUENOS AIRES;Roque Pérez;Ronda 2;201711;PACUCA S.A.;C.T. Pacuca Bio Energia;171,85;1
+Biogás;BG-508;Comahue;LA PAMPA;Puelén;Ronda 2;201711;AB AGRO S.A.;C.T. Ab Energia;156,85;2
+Biogás;BG-510;BSAS;BUENOS AIRES;Bahía Blanca;Ronda 2;201711;INMADE S.A.;C.T. Resener I;176,4;0,72
+Biogás;BG-511;Centro;CORDOBA;Marcos Juárez;Ronda 2;201711;CECILIA DEBENEDETTI;C.T. Enreco;156,85;2
+Biogás;BG-512;NOA;SANTIAGO DEL ESTERO;General Taboada;Ronda 2;201711;LOS AMORES S.A.;C.T. Santiago Energías Renovables;156,85;3
+Biogás;BG-513;BSAS;BUENOS AIRES;General Villegas;Ronda 2;201711;MARÍA ELENA S.A;C.T. General Villegas;169;1,2
+Biogás;BG-514;Centro;CORDOBA;Río Cuarto;Ronda 2;201711;BIOMASS CROP S.A.;Ampliacion 2 Central Bioelectrica;169;1,2
+Biogás;BG-515;Centro;CORDOBA;Río Cuarto;Ronda 2;201711;BIOELECTRICA DOS S.A.;Ampliacion Bioelectrica Dos;169;1,2
+Biogás;BG-516;Centro;SAN LUIS;General Pedernera;Ronda 2;201711;BIOMASS CROP S.A.;C.T. Bio Justo Daract;175;1
+Biogás;BG-517;Centro;CORDOBA;Río Cuarto;Ronda 2;201711;BIOGENERADORA CENTRO S.A;C.T. Biogeneradora Santa Catalina;156,85;2
+Biogás;BG-518;Centro;SAN LUIS;General Pedernera;Ronda 2;201711;BIO ENERGIA YANQUETRUZ;C.T. Yanquetruz Ii;177,85;0,8
+Biogás;BG-519;Centro;CORDOBA;General Roca;Ronda 2;201711;ANTIGUAS ESTANCIAS DON ROBERTO S.A.;C.T. El Alegre Bio;175;1
+Biogás;BG-520;Centro;SAN LUIS;General Pedernera;Ronda 2;201711;ANTIGUAS ESTANCIAS DON ROBERTO S.A.;C.T. Don Roberto Bio;175;1
+Biogás;BG-521;Litoral;SANTA FE;General López;Ronda 2;201711;SESNICH, NESTOR OMAR;C.T. Biocaña;156,85;3
+Biogás;BG-522;BSAS;BUENOS AIRES;Pergamino;Ronda 2;201711;SEEDS ENERGY;C.T. Pergamino;156,85;2,4
+Biogás;BG-523;Litoral;SANTA FE;General López;Ronda 2;201711;SEEDS ENERGY DE VENADO TUERTO S.A.;C.T. Venado Tuerto;156,85;1,998
+Biogás;BG-524;BSAS;BUENOS AIRES;General Alvear;Ronda 2;201711;CARNES DE LA PATAGONIA NEUQUINA S.A.;C.T. General Alvear;171,85;1
+Biogás;BG-525;BSAS;BUENOS AIRES;Saladillo;Ronda 2;201711;CARNES DE LA PATAGONIA NEUQUINA S.A.;C.T. El Mangrullo;156,85;2
+Biogás;BG-526;Litoral;SANTA FE;General Obligado;Ronda 2;201711;INDUSTRIAS JUAN F. SECCO S.A.;C.T. Avellaneda;160;6
+Biogás;BG-527;NOA;TUCUMAN;Burruyacú;Ronda 2;201711;CITRUSVIL S.A.;C.T. Citrusvil;153;3
+Biogás;BG-528;Centro;CORDOBA;Río Cuarto;Ronda 2;201711;CLEANERGY RENOVABLES S.A.;C.T. Jigena I;171;1
+Biogás;BG-529;Centro;CORDOBA;Río Segundo;Ronda 2;201711;CLEANERGY RENOVABLES S.A.;C.T. Villa del Rosario;174,5;1
+Biogás;BG-530;Litoral;SANTA FE;General Obligado;Ronda 2;201711;SILVINA HACEN;C.T. del Rey;169;1
+Biogás;BG-531;Litoral;SANTA FE;General Obligado;Ronda 2;201711;SILVINA HACEN;C.T. Don Nicanor;169;1
+Biogás RS;BRS-600;Litoral;SANTA FE;San Lorenzo;Ronda 2;201711;GLOBAL GREEN RICARDONE SRL;C.T. Ricardone Ii;128;3,12
+Biogás RS;BRS-602;BSAS;BUENOS AIRES;La Matanza;Ronda 2;201711;INDUSTRIAS JUAN F. SECCO S.A.;C.T. Gonzalez Catan;129,7;5
+Biogás RS;BRS-603;BSAS;BUENOS AIRES;Ensenada;Ronda 2;201711;INDUSTRIAS JUAN F. SECCO S.A.;C.T. Ensenada;129,4;5
+Biomasa;BM-01;NEA;CORRIENTES;Concepción;Ronda 1;201610;PAPELERA MEDITERRÁNEA / LUCENA;C.T. Generación Biomasa Santa Rosa;110;12,5
+Biomasa;BM-05;NEA;MISIONES;Libertador General San Martín ;Ronda 1;201610;PINDÓ;C.T. Pincó Eco;110;2
+Biomasa;BM-400;NOA;TUCUMAN;Leales;Ronda 2;201711;COMPAÑÍA INVERSORA INDUSTRIAL S.A.;C.T. Cogeneración Ingenio Leales;145,862069;2
+Biomasa;BM-401;Centro;CORDOBA;Juárez Celman;Ronda 2;201711;PRODEMAN S.A.;C.T. Prodeman Bioenergia;126,5517241;9
+Biomasa;BM-404;NEA;CORRIENTES;Santo Tomé;Ronda 2;201711;SANTO TOME KUERA S.A.;C.T. Kuera Santo Tome;110,627931;12,92
+Biomasa;BM-405;Centro;CORDOBA;General San Martín;Ronda 2;201711;LORENZATI, RUETSCH Y CIA. S.A.;C.T. Ticino Biomasa S.A.;143,1034483;3
+Biomasa;BM-406;NEA;CORRIENTES;Santo Tomé;Ronda 2;201711;FORESTADORA TAPEBICUA S.A.;C.T. Generacion Virasoro;140,7234483;3
+Biomasa;BM-407;BSAS;BUENOS AIRES;Rojas;Ronda 2;201711;GLOBAL DOMINION ACCES;C.T. Rojas;126,0689655;7
+Biomasa;BM-408;Litoral;SANTA FE;General López;Ronda 2;201711;GLOBAL DOMINION ACCES;C.T. Venado Tuerto;106,73;7
+Biomasa;BM-409;NEA;CHACO;Libertad;Ronda 2;201711;UNITAN S.A.I.C.A.;C.T. Biomasa Unitan;115,1724138;6,6
+Biomasa;BM-410;NEA;CORRIENTES;Santo Tomé;Ronda 2;201711;FUENTES RENOVABLES DE ENERGIA S.A.;C.T. San Alonso;108;37
+Biomasa;BM-411;Centro;CORDOBA;Río Segundo;Ronda 2;201711;EMERALD RESOURCES SRL;C.T.  Generación Las Junturas;141;0,5
+Biomasa;BM-412;NOA;TUCUMAN;Cruz Alta;Ronda 2;201711;GENNEIA S.A.;C.T. Biomasa La Florida;106,73;19
+Biomasa;BM-413;NEA;FORMOSA;Patiño;Ronda 2;201711;BIOTERMICA LAS LOMITAS S.A.;C.T. Las Lomitas;123,7931034;10
+Biomasa;BM-414;NEA;CHACO;General Donovan;Ronda 2;201711;INDUNOR S.A.;C.T. La Escondida;120,7931034;10
+Biomasa;BM-416;NEA;FORMOSA;Formosa;Ronda 2;201711;PEGNI SOLUTIONS S.A.;C.T. Fermosa S.A.;129,8275862;6
+Biomasa;BM-417;NEA;MISIONES;Leandro N Alem;Ronda 2;201711;MOLINO MATILDE S.A.;C.T. Bm Mm Bioenergia;143,1034483;3
+Biomasa;BM-418;BSAS;BUENOS AIRES;Capitán Sarmiento;Ronda 2;201711;GRANJA TRES ARROYOS S.A.C.A.F.I.;C.T. Capitan Sarmiento;130,0172414;7,2
+Eólica;EOL-05;Patagonia;SANTA CRUZ;Deseado;Ronda 1;201610;EREN;P.E. Vientos Los Hércules;62,88;97,2
+Eólica;EOL-06;BSAS;BUENOS AIRES;Villarino;Ronda 1;201610;GENNEIA;P.E. Villalonga;54,96;50
+Eólica;EOL-08;Patagonia;CHUBUT;Biedma;Ronda 1;201610;GENNEIA;P.E. CHUBUT Norte;66;28,35
+Eólica;EOL-09;Comahue;RIO NEGRO;Avellaneda;Ronda 1,5;201611;GENNEIA;P.E. Pomona I;54,88;100
+Eólica;EOL-14;BSAS;BUENOS AIRES;Bahía Blanca;Ronda 1;201610;ENVISION / SOWITEC;P.E. García del Río;49,81;10
+Eólica;EOL-15;Comahue;RIO NEGRO;Pilcaniyeu;Ronda 1;201610;ENVISION;P.E. Cerro Alto;56,98;50
+Eólica;EOL-16;Comahue;NEUQUEN;Picunches;Ronda 1;201610;ENVISION;P.E. Los Meandros;53,88;75
+Eólica;EOL-17;BSAS;BUENOS AIRES;Villarino;Ronda 1;201610;ENVISION;P.E. Vientos del Secano;49,08;50
+Eólica;EOL-19;Comahue;LA PAMPA;Utracán;Ronda 1,5;201611;FACUNDO FRAVEGA;P.E. La Banderita;49,98;36,75
+Eólica;EOL-20;Patagonia;SANTA CRUZ;Deseado;Ronda 1,5;201611;PETROQUIMICA COMODORO RIVADAVIA S.A.;P.E. del Bicentenario;49,5;100
+Eólica;EOL-22;Patagonia;CHUBUT;Florentino Ameghino;Ronda 1;201610;PAE / 3 GAL;P.E. Garayalde;59;24,15
+Eólica;EOL-27;Patagonia;CHUBUT;Rawson;Ronda 1,5;201611;ISOLUX INGENIERIA S.A.;P.E. Loma Blanca 6;53,53;100
+Eólica;EOL-29;BSAS;BUENOS AIRES;General Alvarado;Ronda 1,5;201611;ISOLUX INGENIERIA S.A.;P.E. Miramar;56,38;97,65
+Eólica;EOL-32;Cuyo;MENDOZA;San Rafael;Ronda 1,5;201611;EMPRESA MENDOCINA DE ENERGÍA S.A.P.E.M.;P.E. El Sosneado;55;50
+Eólica;EOL-33;Patagonia;CHUBUT;Escalante;Ronda 1;201610;ENAT / SEG / OTAMENDI / NUEVO CERRO DRAGÓN;P.E. Kosten;59,41;24
+Eólica;EOL-35;BSAS;BUENOS AIRES;Villarino;Ronda 1;201610;CP RENOVABLES S.A.;P.E. La Castellana;61,5;99
+Eólica;EOL-37;Centro;CORDOBA;Río Cuarto;Ronda 1,5;201611;CP RENOVABLES S.A.;P.E. Achiras;59,38;48
+Eólica;EOL-44;BSAS;BUENOS AIRES;Bahía Blanca;Ronda 1;201610;C. T. LOMA DE LA LATA;P.E. Corti;58;100
+Eólica;EOL-45;BSAS;BUENOS AIRES;Tres Arroyos;Ronda 1,5;201611;SINOHYDRO CORTPORATION LIMITED;P.E. Pampa;46;100
+Eólica;EOL-46;NOA;LA RIOJA;Arauco;Ronda 1;201610;PARQUE EÓLICO ARAUCO S.A.P.E.M.;P.E. Arauco Ii (Etapa 1 Y 2);67,19;99,75
+Eólica;EOL-47;NOA;LA RIOJA;Arauco;Ronda 1,5;201611;PARQUE EÓLICO ARAUCO S.A.P.E.M.;P.E. Arauco Ii (Etapa 3 Y 4);56,67;95
+Eólica;EOL-48;BSAS;BUENOS AIRES;Necochea;Ronda 1,5;201611;CENTRALES DE LA COSTA ATLÁNTICA S.A;P.E. Vientos De Necochea 1;55,5;37,95
+Eólica;EOL-003;BSAS;BUENOS AIRES;Bahía Blanca;Ronda 2;201711;EIPOR S.A.;P.E. Energetica I;37,3;79,8
+Eólica;EOL-004;Comahue;LA PAMPA;Utracán;Ronda 2;201711;LATINOAMERICANA DE ENERGÍA S.A.;P.E. General Acha;45,67;60
+Eólica;EOL-010;Patagonia;CHUBUT;Escalante;Ronda 2;201711;ENEL GREEN POWER;P.E. Pampa CHUBUT;40,27;100
+Eólica;EOL-016;Patagonia;CHUBUT;Biedma;Ronda 2;201711;GENNEIA S.A.;P.E. CHUBUT Norte Iv;38,9;82,8
+Eólica;EOL-020;Patagonia;CHUBUT;Biedma;Ronda 2;201711;GENNEIA S.A.;P.E. CHUBUT Norte Iii;38,9;57,6
+Eólica;EOL-022;BSAS;BUENOS AIRES;Tornquist;Ronda 2;201711;P.C.R.;P.E. San Jorge;40,27;100
+Eólica;EOL-025;BSAS;BUENOS AIRES;Tornquist;Ronda 2;201711;P.C.R.;P.E. El Mataco;40,27;100
+Eólica;EOL-029;NOA;LA RIOJA;Arauco;Ronda 2;201711;PARQUE EÓLICO ARAUCO S.A.P.E.M.;P.E. Arauco Ii (Etapa 5 Y 6);46,67;100
+Eólica;EOL-035;Patagonia;SANTA CRUZ;Deseado;Ronda 2;201711;YPF ENERGÍA ELÉCTRICA S.A.;P.E. Cañada Leon;41,5;99
+Eólica;EOL-041;BSAS;BUENOS AIRES;Bahía Blanca;Ronda 2;201711;CP RENOVABLES;P.E. La Genoveva;40,9;86,625
+Eólica;EOL-049;Patagonia;CHUBUT;Escalante;Ronda 2;201711;CAPEX S.A.;P.E. Diadema Ii;40,27;27,6
+Eólica;EOL-051;BSAS;BUENOS AIRES;General Alvarado;Ronda 2;201711;EOLIA RENOVABLES;P.E. Vientos Fray Guen;39,55;100
+Peq. Hidro;PAH-01;Cuyo;MENDOZA;Luján de Cuyo;Ronda 1;201610;EMESA / CONST. ELECT. DEL OESTE;P.A.H. Canal Cacique Guaymallén - Salto 8;105;1,2
+Peq. Hidro;PAH-02;Cuyo;MENDOZA;Luján de Cuyo;Ronda 1;201610;EMESA / CONST. ELECT. DEL OESTE;P.A.H. Canal Cacique Guaymallén - Salto 6;105;1,01
+Peq. Hidro;PAH-03;Cuyo;MENDOZA;Junín;Ronda 1;201610;EMESA / CONST. ELECT. DEL OESTE;P.A.H. Dique Tiburcio Benegas;105;1,65
+Peq. Hidro;PAH-04;Cuyo;MENDOZA;San Martín;Ronda 1;201610;EMESA / CONST. ELECT. DEL OESTE;P.A.H. Triple Salto Unificado;105;0,51
+Peq. Hidro;PAH-05;Comahue;RIO NEGRO;Bariloche;Ronda 1;201610;PATAGONIA ENERGíA;P.A.H. Río Escondido;105;7
+Peq. Hidro;PAH-700;Cuyo;MENDOZA;Tupungato;Ronda 2;201711;CONSTRUCCIONES ELECTROMECÁNICAS DEL OESTE S.A.;P.A.H. Las Tunas;103,98;10
+Peq. Hidro;PAH-702;Cuyo;MENDOZA;Luján de Cuyo;Ronda 2;201711;CONSTRUCCIONES ELECTROMECÁNICAS DEL OESTE S.A.;P.A.H. Salto 7;101,98;1,2
+Peq. Hidro;PAH-705;Cuyo;SAN JUAN;Iglesia;Ronda 2;201711;LATINOAMERICANA DE ENERGÍA S.A.;P.A.H. Salto De La Loma;104;0,7
+Peq. Hidro;PAH-708;Centro;CORDOBA;Cruz del Eje;Ronda 2;201711;EPEC;P.A.H. Cruz del Eje;99,85;0,5
+Peq. Hidro;PAH-709;Centro;CORDOBA;San Javier;Ronda 2;201711;EPEC;P.A.H. Boca del Rio;99,75;0,5
+Peq. Hidro;PAH-710;Centro;CORDOBA;San Justo;Ronda 2;201711;EPEC;P.A.H. Pichanas;99,6;0,5
+Peq. Hidro;PAH-712;Cuyo;MENDOZA;Maipú;Ronda 2;201711;NEXO ENERGIA S.A.;P.A.H. Lunlunta;89;6,34
+Peq. Hidro;PAH-714;Cuyo;MENDOZA;Luján de Cuyo;Ronda 2;201711;SKRU S.A.;P.A.H. Salto 40;102;0,52
+Peq. Hidro;PAH-715;Cuyo;MENDOZA;Luján de Cuyo;Ronda 2;201711;SKRU S.A.;P.A.H. Salto 11;102;0,51
+Solar;SFV-01;Cuyo;MENDOZA;Lavalle;Ronda 1,5;201611;EMPRESA MENDOCINA DE ENERGÍA S.A.P.E.M.;P.S. Lavalle;55;17,6
+Solar;SFV-02;Cuyo;MENDOZA;Luján de Cuyo;Ronda 1,5;201611;EMPRESA MENDOCINA DE ENERGÍA S.A.P.E.M.;P.S. Lujan De Cuyo;55;22
+Solar;SFV-04;Cuyo;MENDOZA;La Paz;Ronda 1,5;201611;EMPRESA MENDOCINA DE ENERGÍA S.A.P.E.M.;P.S. La Paz;55;14,08
+Solar;SFV-05;Cuyo;MENDOZA;San Martín;Ronda 1,5;201611;EMPRESA MENDOCINA DE ENERGÍA S.A.P.E.M.;P.S. Pasip;52;1,15
+Solar;SFV-06;Cuyo;MENDOZA;General Alvear;Ronda 1,5;201611;EMPRESA MENDOCINA DE ENERGÍA S.A.P.E.M.;P.S. General Alvear;55;17,6
+Solar;SFV-12;NOA;SALTA;Cafayate;Ronda 1,5;201611;ISOLUX INGENIERIA S.A.;P.S. Cafayate;56,28;80
+Solar;SFV-13;NOA;SALTA;Los Andes;Ronda 1;201610;FIELDFARE/ ISOLUX;P.S. La Puna;58,98;100
+Solar;SFV-15;NOA;LA RIOJA;Chilecito;Ronda 1,5;201611;FIDES GROUP S.A.;P.S. Nonogasta;56,43;35
+Solar;SFV-18;NOA;CATAMARCA;Tinogasta;Ronda 1,5;201611;ENERGÍAS SUSTENTABLES S.A.;P.S. Fiambalá;53,73;11
+Solar;SFV-20;NOA;CATAMARCA;Tinogasta;Ronda 1,5;201611;ALEJANDRO IVANISSEVICH;P.S. Tinogasta;53,43;15
+Solar;SFV-21;NOA;CATAMARCA;Tinogasta;Ronda 1,5;201611;ENERGÍAS SUSTENTABLES S.A.;P.S. Saujil;51,93;22,5
+Solar;SFV-31;Cuyo;SAN JUAN;Sarmiento;Ronda 1,5;201611;SOENERGY INTERNATIONAL INC.;P.S. Sarmiento;52,95;35
+Solar;SFV-32;Cuyo;SAN JUAN;Ullum;Ronda 1,5;201611;ALEJANDRO IVANISSEVICH;P.S. Ullum3;57,63;32
+Solar;SFV-34;Cuyo;MENDOZA;Luján de Cuyo;Ronda 1,5;201611;EMPRESA MENDOCINA DE ENERGÍA S.A.P.E.M.;P.S. Anchoris;48;21,3
+Solar;SFV-36;Centro;SAN LUIS;General Pedernera;Ronda 1,5;201611;QUAATRO PARTICIPACOES S.A.;P.S. Caldenes del Oeste;58,9;24,75
+Solar;SFV-37;Cuyo;SAN JUAN;Ullum;Ronda 1,5;201611;COLWAY  08 INDUSTRIAL;P.S. Ullum 4;56,5;13,5
+Solar;SFV-38;NOA;JUJUY;Susques;Ronda 1;201610;JEMSE;P.S. Cauchari 1;60;100
+Solar;SFV-39;NOA;JUJUY;Susques;Ronda 1;201610;JEMSE;P.S. Cauchari 2;60;100
+Solar;SFV-40;NOA;JUJUY;Susques;Ronda 1;201610;JEMSE;P.S. Cauchari 3;60;100
+Solar;SFV-41;Centro;SAN LUIS;General Pedernera;Ronda 1,5;201611;DIASER  S.A.;P.S. La Cumbre;56,7;22
+Solar;SFV-45;Cuyo;SAN JUAN;Ullum;Ronda 1,5;201611;ALEJANDRO IVANISSEVICH;P.S. Ullum N2;55,23;25
+Solar;SFV-46;Cuyo;SAN JUAN;Ullum;Ronda 1,5;201611;FIDES GROUP S.A.;P.S. Ullum N1;53,73;25
+Solar;SFV-49;Cuyo;SAN JUAN;Iglesia;Ronda 1,5;201611;JINKOSOLAR HOLDING CO.LTD.;P.S. Iglesia - Guañizuli;54,1;80
+Solar;SFV-57;Cuyo;SAN JUAN;Iglesia;Ronda 1,5;201611;LATINOAMERICANA ENERGIA;P.S. Las Lomitas;59,2;1,7
+Solar;SFV-200;NOA;CATAMARCA;Tinogasta;Ronda 2;201711;ENERGIA SUSTENTABLE S.A.;P.S. Tinogasta Ii;41,7;6,96
+Solar;SFV-202;NOA;LA RIOJA;Chilecito;Ronda 2;201711;ENERGIA SUSTENTABLE S.A.;P.S. Nonogasta Iv;41,76;1
+Solar;SFV-203;NOA;CATAMARCA;Tinogasta;Ronda 2;201711;ENERGIA SUSTENTABLE S.A.;P.S. Saujil Ii;41,85;20
+Solar;SFV-206;Centro;CORDOBA;San Javier;Ronda 2;201711;ENERGIA SUSTENTABLE S.A.;P.S. Villa Dolores;51,9;26,85
+Solar;SFV-207;Cuyo;SAN JUAN;Iglesia;Ronda 2;201711;ENERGIA SUSTENTABLE S.A.;P.S. Tocota;40,8;72
+Solar;SFV-211;NOA;LA RIOJA;Chilecito;Ronda 2;201711;NONOGASTA SOLAR S.A.;P.S. Nonogasta Ii;40,44;20,04
+Solar;SFV-212;NOA;SANTIAGO DEL ESTERO;General Taboada;Ronda 2;201711;DEYKOLL COMPANY S.A.;P.S. Añatuya I;52,27;6
+Solar;SFV-218;NOA;CATAMARCA;La Paz;Ronda 2;201711;LATINOAMERICANA DE ENERGÍA S.A.;P.S. La Pirka;42;100
+Solar;SFV-219;NOA;CATAMARCA;Capayán;Ronda 2;201711;LATINOAMERICANA DE ENERGÍA S.A.;P.S. Los Zorritos;41,76;49,5
+Solar;SFV-224;Cuyo;SAN JUAN;Ullum;Ronda 2;201711;LATINOAMERICANA DE ENERGÍA S.A.;P.S. Ullum X;42;100
+Solar;SFV-259;NOA;SALTA;Los Andes;Ronda 2;201711;NEOEN SAS;P.S. Altiplano I;40,8;100
+Solar;SFV-264;Cuyo;MENDOZA;Luján de Cuyo;Ronda 2;201711;VERANO CAPITAL SOLAR 1 SA.;P.S. Verano Capital Solar One;42,5;99,9
+Solar;SFV-266;Centro;CORDOBA;General San Martín;Ronda 2;201711;EPEC;P.S. Arroyo del Cabral;49,97;40
+Solar;SFV-275;Cuyo;SAN JUAN;Iglesia;Ronda 2;201711;MARTIFER RENEWABLES SGPS S.A.;P.S. Guañizuil Ii A;41,76;100
+Solar;SFV-284;Cuyo;MENDOZA;Tupungato;Ronda 2;201711;KUNTUR ENERGIA;P.S. Zapata;41,76;37
+Solar;SFV-300;Centro;CORDOBA;Río Seco;Ronda 2;201711;HARZ ENERGY LLC;P.S. V.Maria del Rio Seco;48,95;20
+Solar;SFV-301;Centro;CORDOBA;San Alberto;Ronda 2;201711;HARZ ENERGY LLC;P.S. Cura Brochero;49,95;17
+;;;;;;;;;;
+;;;;;;;;;;4466,488
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;; ;;;
